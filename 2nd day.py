@@ -12,7 +12,6 @@
 # k=fun4()
 # print(k)
 
-
 # formating string
 
 #
