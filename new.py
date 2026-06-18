@@ -12,4 +12,5 @@ def fun2(x):
     print(x)
 fun2(x)
 print(fun2.__name__)
+print("hi")
 
